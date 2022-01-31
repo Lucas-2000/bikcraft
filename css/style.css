@@ -6,6 +6,7 @@
 /* Introducao */
 @import url("./home/introducao.css");
 @import url("./home/tecnologia.css");
+@import url("./home/parceiros.css");
 
 /* Componentes */
 @import url("./utilidades/componentes.css");
