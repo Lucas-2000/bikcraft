@@ -8,3 +8,6 @@
 
 /* Componentes */
 @import url("./utilidades/componentes.css");
+
+/* Bicicletas */
+@import url("./bicicletas/bicicletas-lista.css");
